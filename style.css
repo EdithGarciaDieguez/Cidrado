@@ -1,0 +1,34 @@
+body {
+background-image: url("https://androidayuda.com/app/uploads/2016/02/pertura-fondo1.jpg");
+
+background-position: top;
+font-family:fantasy;
+font-size: 40px;
+color:black;
+text-align: center;
+}
+
+h1 {
+ font-family:fantasy;
+ color:#9400D3;
+ font-size: 80px; 
+ }
+.encrypt, .offset, .desencrypt{
+
+    font-size: 60px;
+    padding: 40px 70px;
+    border: 4px solid dimgray;
+    border-radius:30px;
+    box-sizing: border-box;
+    background: color: white; 
+}
+#toEncrypt, #toDesencrypt, #offset{
+    margin-bottom: 80px;
+    background-color:rgb(157, 237, 240);
+    font-size: 32px;
+     border: 2px solid dimgray;
+     border-radius: 20px;
+     color:black
+     padding: 10px 30px:
+     cursor: pointer;
+}
